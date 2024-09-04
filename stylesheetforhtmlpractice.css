@@ -1,0 +1,24 @@
+h1,h2{
+    color: white;
+    text-align: center;
+}
+#bio, #work{
+    background-color:orange;
+    padding: 15px;
+}
+footer{
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 10px;
+}
+p{
+    text-align: center;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  body{
+    background-color: black;
+  }
